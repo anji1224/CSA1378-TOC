@@ -1,0 +1,124 @@
+Automaton Simulator, v1.0
+dfa {
+	alphabet {abcd*}
+	state {
+		initial {yes}
+		coord {200 353}
+	}
+	state {
+		final {yes}
+		coord {581 417}
+	}
+	edge 0 0 {
+		transits {b}
+		offset {2.4123152728935215}
+	}
+	edge 0 1 {
+		transits {c}
+		offset {0.5235987755982988}
+	}
+	edge 1 1 {
+		transits {a}
+		offset {2.356194490192345}
+	}
+	label {
+		text {A}
+		font {SansSerif 12 -}
+		coord {202 351}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {479 350}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {479 350}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {479 350}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {479 350}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {484 340}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {481 339}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {481 339}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {481 339}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {464 355}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {464 355}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {487 341}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {487 341}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {298 399}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {491 345}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {486 348}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {487 336}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {494 326}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {498 323}
+	}
+	label {
+		text {}
+		font {SansSerif 12 -}
+		coord {506 197}
+	}
+}
